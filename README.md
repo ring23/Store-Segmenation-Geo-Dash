@@ -5,7 +5,7 @@ An interactive Streamlit dashboard for analyzing store locations, across cluster
 ## Setup
 
 1. Clone the repository:
-git clone [repository-url]
+git clone https://github.com/ring23/Store-Segmenation-Geo-Dash.git
 
 2. Create and activate a virtual environment:
 python -m venv venv
