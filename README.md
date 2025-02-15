@@ -2,6 +2,8 @@
 
 An interactive Streamlit dashboard for analyzing store locations, across clusters, and performance metrics.
 
+See it live here: https://storegeodash.streamlit.app/ :)
+
 ## Setup
 
 1. Clone the repository:
