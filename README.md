@@ -1,3 +1,18 @@
+# 🏪 Store Location Analysis Dashboard
+
+An interactive Streamlit dashboard for analyzing store locations, across clusters, and performance metrics.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://storegeodash.streamlit.app/)
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+
+## 🚀 Setup
+
+1. 📥 Clone the repository: git clone [repository-url]
+2. 🔧 Create and activate a virtual environment: python -m venv venv
+3. 📦 Install dependencies: pip install -r requirements.txt
+4. 📂 Run the Streamlit app: streamlit run mapViz.py
+
 
 ## 📁 Files
 - 📊 `mapViz.py`: Main application file containing the Streamlit dashboard
