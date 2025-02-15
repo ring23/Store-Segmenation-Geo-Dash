@@ -6,7 +6,7 @@ An interactive Streamlit dashboard for analyzing store locations, across cluster
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 
-Check out a live version here: (https://storegeodash.streamlit.app/)
+Check out a live version here: https://storegeodash.streamlit.app/
 
 ## 🚀 Setup
 
