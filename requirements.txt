@@ -1,0 +1,12 @@
+pandas
+folium
+streamlit
+streamlit-folium
+branca
+plotly
+numpy
+geopy
+scipy
+shapely
+geopandas
+scikit-learn 
